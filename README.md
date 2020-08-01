@@ -67,3 +67,4 @@
 
 - [shields.io](https://github.com/badges/shields "shields.io")
 - [simple-icons](https://simpleicons.org/ "simple-icons")
+- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats "GitHub Readme Stats")
