@@ -6,11 +6,12 @@
 - 🤔 I’m looking for help with development
 - 💬 You can also ask me about TV, gardening, xbox and cooking
 - 📫 How to reach me:
-[![GitHub](https://img.shields.io/badge/-thiagojv-181717?style=flat&logo=github&logoColor=white)](https://github.com/thiagojv)
-[![Linkedin](https://img.shields.io/badge/-thiagojv-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thiagojv)
-[![Twitter](https://img.shields.io/badge/-thiagolinodev-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://www.twitter.com/thiagolinodev)
-[![Instagram](https://img.shields.io/badge/-thiagolinodev-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/thiagolinodev)
-[![Youtube](https://img.shields.io/badge/-thiagolinodev-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCds1Rni6Rm2sXGVlL-No62A)
+[![GitHub](https://img.shields.io/badge/-thiagojv-181717?style=flat&logo=github&logoColor=white)](https://github.com/thiagojv "GitHub")
+[![Linkedin](https://img.shields.io/badge/-thiagojv-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thiagojv "LinkedIn")
+[![Twitter](https://img.shields.io/badge/-thiagolinodev-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://www.twitter.com/thiagolinodev "Twitter")
+[![Instagram](https://img.shields.io/badge/-thiagolinodev-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/thiagolinodev "Instagram")
+[![Youtube](https://img.shields.io/badge/-thiagolinodev-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCds1Rni6Rm2sXGVlL-No62A "Youtube")
+[![Medium](https://img.shields.io/badge/-thiagojv-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@thiagojv "Medium")
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I don't understand Star Wars 😳 but I love Storm Troopers ![Storm Trooper](https://github.com/thiagojv/thiagojv/blob/master/images/stormtrooper.png "Storm Trooper")
 
