@@ -62,3 +62,8 @@
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=thiagojv)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagojv&hide=TeX&layout=compact)
+
+## Acknowledgements
+
+- [shields.io](https://github.com/badges/shields "shields.io")
+- [simple-icons](https://simpleicons.org/ "simple-icons")
