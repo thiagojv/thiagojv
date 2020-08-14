@@ -1,6 +1,5 @@
 ## Facts
 
-- 🔭 I’m currently working on [![Youse](https://img.shields.io/badge/-Youse-6c44ab?style=flat&logo=data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAAQABAAD/4gKgSUNDX1BST0ZJTEUAAQEAAAKQbGNtcwQwAABtbnRyUkdCIFhZWiAH4wALAAEAEQAvAA5hY3NwQVBQTAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA9tYAAQAAAADTLWxjbXMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAtkZXNjAAABCAAAADhjcHJ0AAABQAAAAE53dHB0AAABkAAAABRjaGFkAAABpAAAACxyWFlaAAAB0AAAABRiWFlaAAAB5AAAABRnWFlaAAAB+AAAABRyVFJDAAACDAAAACBnVFJDAAACLAAAACBiVFJDAAACTAAAACBjaHJtAAACbAAAACRtbHVjAAAAAAAAAAEAAAAMZW5VUwAAABwAAAAcAHMAUgBHAEIAIABiAHUAaQBsAHQALQBpAG4AAG1sdWMAAAAAAAAAAQAAAAxlblVTAAAAMgAAABwATgBvACAAYwBvAHAAeQByAGkAZwBoAHQALAAgAHUAcwBlACAAZgByAGUAZQBsAHkAAAAAWFlaIAAAAAAAAPbWAAEAAAAA0y1zZjMyAAAAAAABDEoAAAXj///zKgAAB5sAAP2H///7ov///aMAAAPYAADAlFhZWiAAAAAAAABvlAAAOO4AAAOQWFlaIAAAAAAAACSdAAAPgwAAtr5YWVogAAAAAAAAYqUAALeQAAAY3nBhcmEAAAAAAAMAAAACZmYAAPKnAAANWQAAE9AAAApbcGFyYQAAAAAAAwAAAAJmZgAA8qcAAA1ZAAAT0AAACltwYXJhAAAAAAADAAAAAmZmAADypwAADVkAABPQAAAKW2Nocm0AAAAAAAMAAAAAo9cAAFR7AABMzQAAmZoAACZmAAAPXP/bAEMAAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAf/bAEMBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAf/AABEIABAAEAMBIgACEQEDEQH/xAAXAAADAQAAAAAAAAAAAAAAAAAAAQQI/8QAHBAAAgMBAQEBAAAAAAAAAAAAAwUCBAYHARMI/8QAFAEBAAAAAAAAAAAAAAAAAAAACP/EACURAAAEBAUFAAAAAAAAAAAAABIUFRYBBBMXAAYHESUCAwUYJv/aAAwDAQACEQMRAD8Ay5xTmuP1ajp/QejXNAPB8lzylu3U5KVEOl0TLQtZKEiuldYwLTV0vbIyEYsiiJ6EfzjD5+ekLF9s5rj8oo5h0HnN3QFwfWs82bqFOtlRNpc6yzzSKh2ru3V0BU2lLyyQZFzIQR+mH9Iz+nngyyr/ADl0PN830OjaajY6DOKmqOCS2iU4BP0RPs6VmxIltXqUz5jRoRW0/BjPWmPyd2dk8/AHrBjZhZP0b0PN9I0Oda5fZaHRq1SOaSoibc/T87T42lWsRJUWZZMhYXqEltzwhD2pk8hdhZrw8MeyGVaFVImdZPbgmfzhbERuskZzYTYtfDsMqmwmY7bm/b3DfxtI205JmePwkNvAssVOSV9ghrSSlGcV4dUZ8SgdIpHHpaeExylQEamP/9k=)](http://www.youse.com.br)
 - 🌱 I’m currently learning AI and reviewing theories
 - 👯 I’m looking to collaborate with newer devs
 - 🤔 I’m looking for help with development
@@ -59,13 +58,7 @@
 [![Data Science I - Nanodegree Foundation](https://github.com/thiagojv/thiagojv/blob/master/images/udacity.png)](https://confirm.udacity.com/XCSZKACP "Data Science I - Nanodegree Foundation")
 ![Guidewire PolicyCenter 8.0 Technical Certification Exam](https://github.com/thiagojv/thiagojv/blob/master/images/guidewire.jpg "Guidewire PolicyCenter 8.0 Technical Certification Exam")
 
-## Github stats
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=thiagojv&hide=issues&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagojv&hide=TeX&layout=compact)
-
 ## Acknowledgements
 
 - [shields.io](https://github.com/badges/shields "shields.io")
 - [simple-icons](https://simpleicons.org/ "simple-icons")
-- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats "GitHub Readme Stats")
