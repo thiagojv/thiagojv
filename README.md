@@ -7,7 +7,7 @@
 - 📫 How to reach me:
 [![GitHub](https://img.shields.io/badge/-thiagojv-181717?style=flat&logo=github&logoColor=white)](https://github.com/thiagojv "GitHub")
 [![Linkedin](https://img.shields.io/badge/-thiagojv-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thiagojv "LinkedIn")
-[![Instagram](https://img.shields.io/badge/-thiagolinodev-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/thiagolinodev "Instagram")
+[![Instagram](https://img.shields.io/badge/-thiagojv-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/thiagojv "Instagram")
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I don't understand Star Wars 😳 but I love Storm Troopers ![Storm Trooper](https://github.com/thiagojv/thiagojv/blob/master/images/stormtrooper.png "Storm Trooper")
 
